@@ -1,0 +1,7 @@
+{
+  "name": "core-config",
+  "version": "1.0.0",
+  "description": "Package holding the shared Vitest configuration",
+  "main": "src/utils.js",
+  "type": "module"
+}

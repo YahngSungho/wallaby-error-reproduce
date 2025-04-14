@@ -1,0 +1,9 @@
+{
+  "name": "feature-lib",
+  "version": "1.0.0",
+  "description": "Package containing tests that rely on core-config",
+  "type": "module",
+  "devDependencies": {
+    "core-config": "workspace:*"
+  }
+}
